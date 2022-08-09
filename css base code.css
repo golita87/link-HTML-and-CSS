@@ -1,0 +1,18 @@
+body {
+  background-color: antiquewhite;
+
+  }
+  
+  h1 {
+    color: midnightblue;
+    text-align: center;
+  }
+  
+  p {
+    color: midnightblue;
+    font-family: Verdana;
+    font-size: 20px;
+  }
+  ol{
+    color: crimson;
+  }
